@@ -3,8 +3,8 @@
 class HttpTapeDeck < Formula
   desc "HTTP traffic record and replay tool"
   homepage "https://github.com/emereum/http-tape-deck"
-  url "https://github.com/emereum/http-tape-deck/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "900bd82be46b76391f0b8e487a2adc90a7d8284e466291498dab2c1c74db3aed"
+  url "https://github.com/emereum/http-tape-deck/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "98027176525eda8ee6bb659003d2581bd901cf300c3f2a8738d921cf6b431d1c"
   head "https://github.com/emereum/http-tape-deck.git"
   depends_on "mitmproxy"
 
